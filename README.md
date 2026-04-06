@@ -15,5 +15,5 @@ CIIT College of Arts and Technology
 https://hehnice.itch.io/hospital-cats
 
 # Collaboration with:
-[sh1n-4](https://github.com/sh1n-4)
+[sh1n-4](https://github.com/sh1n-4) <br>
 [ronssae](https://github.com/ronssae)
