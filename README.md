@@ -8,7 +8,7 @@
 ```
 
               
-A finals project for Game Production (EMC215). 
+A finals project for Game Production (EMC215). <br>
 CIIT College of Arts and Technology
 
 # Visit the published game!
